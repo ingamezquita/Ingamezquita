@@ -8,7 +8,7 @@
 
 ## 💼 ¿Qué puedo aportar?
 - Desarrollo de scripts y automatizaciones con **Python**
-- Consultas SQL complejas y modelado de bases de datos relacionales (**MySQL**, **PostgreSQL**)
+- Consultas SQL complejas y modelado de bases de datos relacionales (**MySQL**, **PostgreSQL**, **ORACLE**)
 - Limpieza, análisis y visualización de datos con **Pandas**, **Matplotlib**
 - Documentación clara, código organizado y actitud de aprendizaje constante
 
