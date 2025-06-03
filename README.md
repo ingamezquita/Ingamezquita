@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 ¡Hola! Soy Santiago Amezquita
 
-<!--
-**ingamezquita/Ingamezquita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 Ingeniero mecatrónico apasionado por la programación, la ciencia de datos y la automatización.  
+💻 En formación para convertirme en desarrollador Python con enfoque en análisis y gestión de bases de datos.  
+🚀 Actualmente cursando una Especialización en Bases de Datos y preparándome para la certificación **PCEP**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 ¿Qué puedo aportar?
+- Desarrollo de scripts y automatizaciones con **Python**
+- Consultas SQL complejas y modelado de bases de datos relacionales (**MySQL**, **PostgreSQL**)
+- Limpieza, análisis y visualización de datos con **Pandas**, **Matplotlib**
+- Documentación clara, código organizado y actitud de aprendizaje constante
+
+---
+
+## 📚 En formación
+- 📘 Curso de Python para Principiantes (Udemy)
+- 🧠 Certificación **PCEP – Python Essentials 1**
+- 📊 Especialización en Bases de Datos (en curso)
+
+---
+
+## 🔨 Proyectos personales
+
+| Proyecto | Descripción | Tecnologías | Estado |
+|---------|-------------|-------------|--------|
+| `crud-inventario` | CRUD en consola para gestión de productos | Python, diccionarios, input/print | En desarrollo 🛠️ |
+| `analisis-csv` | Script para limpieza y análisis de archivos CSV | Python, Pandas | Listo ✅ |
+| `flask-api-usuarios` | Mini API para gestión de usuarios | Python, Flask, SQLite | Próximamente 🚧 |
+| `monitor-lechugas-iot` | Sistema de monitoreo de cultivo con sensores (proyecto académico) | Python, SQLite, sensores virtuales | En progreso 🌱 |
+
+> 📁 Puedes ver más detalles dentro de cada repositorio
+
+---
+
+## 🧠 Lo que estoy aprendiendo
+- Programación orientada a objetos en Python
+- SQL avanzado y optimización de consultas
+- Desarrollo de APIs con Flask
+- Fundamentos de testing y buenas prácticas
+
+---
+
+## 📫 ¿Quieres contactarme?
+
+- 💼 [LinkedIn](www.linkedin.com/in/santiagoamezquitapulido)
+- 📧 ingamezquita8@gmail.com
+
+
+---
+
+**Gracias por visitar mi perfil!** Si te interesa colaborar en proyectos de automatización, análisis de datos o desarrollo con Python, ¡estaré encantado de conectarnos 🙌!
+
