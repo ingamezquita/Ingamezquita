@@ -25,8 +25,8 @@
 
 | Proyecto | Descripción | Tecnologías | Estado |
 |---------|-------------|-------------|--------|
-| `Inventario simple` | CRUD en consola para gestión de productos | Python, diccionarios, input/print | En desarrollo 🛠️ |
-| `analisis-csv` | Script para limpieza y análisis de archivos CSV | Python, Pandas | Listo ✅ |
+| `Inventario simple` | CRUD en consola para gestión de productos | Python, diccionarios, input/print |Listo ✅  |
+| `analisis-csv` | Script para limpieza y análisis de archivos CSV | Python, Pandas | En desarrollo 🛠️ |
 | `flask-api-usuarios` | Mini API para gestión de usuarios | Python, Flask, SQLite | Próximamente 🚧 |
 | `monitor-lechugas-iot` | Sistema de monitoreo de cultivo con sensores (proyecto académico) | Python, SQLite, sensores virtuales | En progreso 🌱 |
 
