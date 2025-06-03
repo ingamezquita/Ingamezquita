@@ -44,7 +44,7 @@
 
 ## 📫 ¿Quieres contactarme?
 
-- 💼 [LinkedIn](www.linkedin.com/in/santiagoamezquitapulido)
+- 💼 www.linkedin.com/in/santiagoamezquitapulido
 - 📧 ingamezquita8@gmail.com
 
 
