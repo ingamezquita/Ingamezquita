@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://github.com/ingamezquita/ingamezquita/blob/main/banner.png" alt="Imagen 6 jun 2025.png" width="100%"/>
+  <img src="https://github.com/ingamezquita/ingamezquita/blob/main/banner_github.png.png" alt="Banner GitHub" width="100%"/>
 </p>
-
 # 👋 ¡Hola! Soy Santiago Amezquita
 
 🎯 Ingeniero mecatrónico apasionado por la programación, la ciencia de datos y la automatización.  
