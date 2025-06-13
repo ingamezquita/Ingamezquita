@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/ingamezquita/ingamezquita/blob/main/banner.png" alt="Banner" width="100%"/>
+  <img src="https://github.com/ingamezquita/ingamezquita/blob/main/banner.png" alt="Banner" style="width:100%;" />
 </p>
 # 👋 ¡Hola! Soy Santiago Amezquita
 
