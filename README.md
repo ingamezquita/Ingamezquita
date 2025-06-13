@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/ingamezquita/ingamezquita/blob/main/banner.png" alt="Banner" style= width="100%" height="auto" />
 </p>
-# 👋 ¡Hola! Soy Santiago Amezquita
+👋 ¡Hola! Soy Santiago Amezquita
 
 🎯 Ingeniero mecatrónico apasionado por la programación, la ciencia de datos y la automatización.  
 💻 En formación para convertirme en desarrollador Python con enfoque en análisis y gestión de bases de datos.  
