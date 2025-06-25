@@ -19,7 +19,7 @@
 ---
 
 ## 📚 Formación técnica
-- 📜 **PCEP – Certified Entry-Level Python Programmer** ([verificación]((https://verify.openedg.org/?id=QGwK.R12x.ewcm))) ✅  
+- 📜 **PCEP – Certified Entry-Level Python Programmer** ([verificación](https://verify.openedg.org/?id=QGwK.R12x.ewcm)) ✅  
 - 📘 Curso de Python para Principiantes (Udemy)  
 - 📊 Especialización en Bases de Datos (en curso)
 
