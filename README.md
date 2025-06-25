@@ -22,6 +22,11 @@
 - 📜 **PCEP – Certified Entry-Level Python Programmer** ([verificación](https://verify.openedg.org/?id=QGwK.R12x.ewcm)) ✅  
 - 📘 Curso de Python para Principiantes (Udemy)  
 - 📊 Especialización en Bases de Datos (en curso)
+- 🐍 Introducción a Python – Codefinity  
+- 📊 Análisis de datos con Pandas – Codefinity  
+- 🔐 Fundamentos de Ciberseguridad – Codefinity  
+- ⚙️ Estructuras de datos en Python – Codefinity  
+- 🧠 Declaraciones condicionales y funciones – Codefinity  
 
 ---
 
