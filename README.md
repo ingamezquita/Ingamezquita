@@ -1,55 +1,85 @@
-<p align="center">
-  <img src="https://github.com/ingamezquita/ingamezquita/blob/main/banner.png" alt="Banner" style= width="100%" height="auto" />
-</p>
+# 👋 Duván Santiago Amezquita Pulido
 
-👋 ¡Hola! Soy Santiago Amezquita
+🇨🇴 **Especialista en Bases de Datos | Python | FinTech | Automatización**  
+🇺🇸 **Database Specialist | Python | FinTech | Automation**
 
-🎯 Ingeniero mecatrónico apasionado por la programación, la ciencia de datos y la automatización.  
-💻 En transición hacia el desarrollo backend con enfoque en análisis y gestión de bases de datos.  
-🚀 Actualmente curso una Especialización en Bases de Datos y he obtenido la certificación **PCEP – Certified Entry-Level Python Programmer** del Python Institute.
+Profesional técnico con experiencia real en **FinTech / PSP**, enfocado en integraciones técnicas, análisis de datos, automatización con Python y gestión de bases de datos. Me caracterizo por unir **visión técnica + operación**, documentar procesos claros y construir soluciones escalables.
 
 ---
 
-## 💼 ¿Qué puedo aportar?
-- Desarrollo de scripts y automatizaciones con **Python**
-- Consultas SQL complejas y modelado de bases de datos relacionales (**MySQL**, **PostgreSQL**, **Oracle**)
-- Limpieza, análisis y visualización de datos con **Pandas**, **Matplotlib**
-- Documentación clara, código organizado y actitud de aprendizaje constante
+## 🎓 Formación técnica | Technical Background
+
+- 🎓 **Especialización en Bases de Datos**  
+  **Universidad Pedagógica y Tecnológica de Colombia (UPTC)**  
+
+- 📜 **PCEP – Certified Entry-Level Python Programmer**  
+  🔗 [Verificación oficial](https://verify.openedg.org/?id=QGwK.R12x.ewcm) ✅  
+
+- 📘 Curso de Python para Principiantes – *Udemy*  
+
+- 🐍 Introducción a Python – *Codefinity*  
+- 📊 Análisis de datos con Pandas – *Codefinity*  
+- 🔐 Fundamentos de Ciberseguridad – *Codefinity*  
+- ⚙️ Estructuras de datos en Python – *Codefinity*  
+- 🧠 Condicionales y funciones en Python – *Codefinity*
 
 ---
 
-## 📚 Formación técnica
-- 📜 **PCEP – Certified Entry-Level Python Programmer** ([verificación](https://verify.openedg.org/?id=QGwK.R12x.ewcm)) ✅  
-- 📘 Curso de Python para Principiantes (Udemy)  
-- 📊 Especialización en Bases de Datos (en curso)
-- 🐍 Introducción a Python – Codefinity  
-- 📊 Análisis de datos con Pandas – Codefinity  
-- 🔐 Fundamentos de Ciberseguridad – Codefinity  
-- ⚙️ Estructuras de datos en Python – Codefinity  
-- 🧠 Declaraciones condicionales y funciones – Codefinity  
+## 💼 Experiencia Profesional | Professional Experience  
+### 🏦 FinTech / PSP (Payment Service Provider)
+
+Trabajo actualmente en una **PSP / FinTech**, donde desempeño funciones técnicas y operativas clave:
+
+- 🔌 **Implementación técnica end-to-end para merchants**  
+  Integración de **APIs REST**, configuración de **webhooks**, callbacks, manejo de **credenciales**, claves y monitoreo de transacciones.
+
+- 📊 **Conciliación y settlement de pagos**  
+  Análisis de archivos, trazas y transacciones; detección de discrepancias y coordinación de resolución con equipos técnicos y entidades bancarias.
+
+- 🧪 **Soporte técnico de integraciones**  
+  Pruebas y validaciones con **Postman**, soporte a equipos internos y externos, y generación de documentación técnica clara.
+
+- 🤖 **Automatización con Python**  
+  Desarrollo de scripts para:
+  - Validación de datos
+  - Parsing de logs
+  - Checks de integridad
+  - Reducción de tareas manuales repetitivas
+
+- 📘 **Documentación y mejora continua**  
+  Creación de *runbooks*, checklists operativos y definición de métricas para estandarizar procesos y mejorar la eficiencia.
 
 ---
 
-## 🔨 Proyectos personales
+## 🚀 Proyecto Personal | Personal Project
 
-| Proyecto | Descripción | Tecnologías | Estado |
-|---------|-------------|-------------|--------|
-| `Inventario simple` | CRUD en consola para gestión de productos | Python, diccionarios, input/print | Listo ✅ |
-| `analisis-csv` | Script para limpieza y análisis de archivos CSV | Python, Pandas | En desarrollo 🛠️ |
-| `flask-api-usuarios` | Mini API para gestión de usuarios | Python, Flask, SQLite | Próximamente 🚧 |
-| `monitor-lechugas-iot` | Sistema de monitoreo de cultivo con sensores (proyecto académico) | Python, SQLite, sensores virtuales | En progreso 🌱 |
+### 🌱 Sistema de Monitoreo para Cultivos Aeropónicos
 
-> 📁 Puedes ver más detalles dentro de cada repositorio
+Diseño y desarrollo de un sistema de monitoreo tecnológico aplicado a la agricultura aeropónica, integrando:
+
+- 🌡️ **Sensores IoT** (variables ambientales y del cultivo)  
+- 🐍 **Python** para la lógica de control y procesamiento de datos  
+- 🗄️ **Base de datos MySQL** para almacenamiento estructurado de lecturas  
+- 📊 **Dashboards interactivos** para visualización y análisis en tiempo real  
+- 🔄 Arquitectura pensada para **escalabilidad** y futura integración vía API
+
+Este proyecto busca demostrar la aplicación práctica de **Python + Bases de Datos + IoT + Análisis de datos** en un entorno real.
+
+---
+
+## 🎯 Enfoque Profesional | Professional Focus
+
+- 🏦 **Sistemas de pagos y operación bancaria**
+- 🔌 **Integraciones técnicas con APIs financieras**
+- 📊 **Análisis, conciliación y control transaccional**
+- 🗄️ **Gestión de datos**
+- 🤖 **Automatización de procesos operativos con Python**
+- 📘 **Documentación clara para entornos productivos**
 
 ---
 
-## 🧠 Lo que estoy aprendiendo
-- Programación orientada a objetos en Python
-- SQL avanzado y optimización de consultas
-- Desarrollo de APIs con Flask
-- Fundamentos de testing y buenas prácticas
+✨ *Este repositorio funciona como mi carta de presentación técnica y portafolio profesional.*
 
----
 
 ## 📫 ¿Quieres contactarme?
 
