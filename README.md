@@ -12,11 +12,13 @@ Profesional técnico con experiencia real en **FinTech / PSP**, enfocado en inte
 - 🎓 **Especialización en Bases de Datos**  
   **Universidad Pedagógica y Tecnológica de Colombia (UPTC)**  
 
+- 🎓 **Ingeniero Mecatrónico**  
+  **Universidad de Boyacá**  
+
 - 📜 **PCEP – Certified Entry-Level Python Programmer**  
   🔗 [Verificación oficial](https://verify.openedg.org/?id=QGwK.R12x.ewcm) ✅  
 
 - 📘 Curso de Python para Principiantes – *Udemy*  
-
 - 🐍 Introducción a Python – *Codefinity*  
 - 📊 Análisis de datos con Pandas – *Codefinity*  
 - 🔐 Fundamentos de Ciberseguridad – *Codefinity*  
