@@ -1,7 +1,7 @@
 # 👋 Duván Santiago Amezquita Pulido
 
-🇨🇴 **Especialista en Bases de Datos | Python | FinTech | Automatización**  
-🇺🇸 **Database Specialist | Python | FinTech | Automation**
+**Especialista en Bases de Datos | Python | FinTech | Automatización**  
+**Database Specialist | Python | FinTech | Automation**
 
 Profesional técnico con experiencia real en **FinTech / PSP**, enfocado en integraciones técnicas, análisis de datos, automatización con Python y gestión de bases de datos. Me caracterizo por unir **visión técnica + operación**, documentar procesos claros y construir soluciones escalables.
 
