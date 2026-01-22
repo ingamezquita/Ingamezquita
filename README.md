@@ -1,4 +1,4 @@
-# 👋 Duván Santiago Amezquita Pulido
+# 👋 Duván Santiago Amézquita Pulido
 
 **Especialista en Bases de Datos | Python | FinTech | Automatización**  
 **Database Specialist | Python | FinTech | Automation**
